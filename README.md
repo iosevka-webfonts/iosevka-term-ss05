@@ -1,6 +1,6 @@
-# Iosevka-term-ss05 WebFont 17.1.0
+# Iosevka Term SS05 WebFont 17.1.0
 
 ## How to use
 
-- Add `<link href="https://iosevkawebfonts.github.io/Iosevka-term-ss05/Iosevka-term-ss05.css" rel="stylesheet" />` to your `<head>`.
-- Use `fontFamily: 'Iosevka term ss05 Web'` or `font-family: 'Iosevka term ss05 Web'`.
+- Add `<link href="https://iosevka-webfonts.github.io/iosevka-term-ss05/iosevka-term-ss05.css" rel="stylesheet" />` to your `<head>`.
+- Use `fontFamily: 'Iosevka Term SS05 Web'` or `font-family: 'Iosevka Term SS05 Web'`.
